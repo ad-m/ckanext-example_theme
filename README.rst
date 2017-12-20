@@ -32,18 +32,16 @@
 ckanext-example_theme
 =============
 
-.. Put a description of your extension here:
-   What does it do? What features does it have?
-   Consider including some screenshots or embedding a video!
-
+An exemplary plugin, the purpose of which is to demonstrate the overwriting of selected JS files of the embedded CKAN
+module without copying / forcing it entirely.
 
 ------------
 Requirements
 ------------
 
-For example, you might want to mention here which versions of CKAN this
-extension works with.
+The plugin requires following plugins:
 
+* recline_view (CKAN core plugin)
 
 ------------
 Installation
